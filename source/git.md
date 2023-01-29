@@ -6,5 +6,5 @@ $ git push
 ```
 ima no joutai wo kakunin
 ```
-$git status
+$ git status
 ```

@@ -4,3 +4,7 @@ $ git add .
 $ git commit -m "commit masage"
 $ git push
 ```
+ima no joutai wo kakunin
+```
+$git status
+```
